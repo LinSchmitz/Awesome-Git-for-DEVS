@@ -32,6 +32,7 @@ Repositories offering education, guides, interview questions, and algorithm prac
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) – Algorithm problems and solutions resource.
 - [phillipai/100-days-of-code-python](https://github.com/phillipai/100-days-of-code-python) – Python-focused 100-day coding challenge.
 - [ashutoshkrris/100-Days-of-Python](https://github.com/ashutoshkrris/100-Days-of-Python) – Python coding series.
+- [Mariotek/javascript-persian-interview-questions](https://github.com/Mariotek/javascript-persian-interview-questions)
 
 ---
 
@@ -49,6 +50,19 @@ Popular JavaScript libraries, frameworks, and front-end tooling.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) – UI component development environment.
 - [vercel/next.js](https://github.com/vercel/next.js) – React-based SSR framework.
 - [vuejs/vue](https://github.com/vuejs/vue) – Progressive JavaScript framework.
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
+- [Mariotek/better-understanding-of-javascript](https://github.com/Mariotek/better-understanding-of-javascript)
+- [Mariotek/reactjs-persian-interview-questions](https://github.com/Mariotek/reactjs-persian-interview-questions)
+- [deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT](https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT)
+- [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour)
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+- [pmndrs/zustand](https://github.com/pmndrs/zustand)
+- [soumyajit4419/vercel-clone](https://github.com/soumyajit4419/vercel-clone)
+- [steven-tey/cal.com](https://github.com/steven-tey/cal.com)
+- [codex-team/editor.js](https://github.com/codex-team/editor.js)
+- [SarahAmiraslani/styleguide](https://github.com/SarahAmiraslani/styleguide)
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+- [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 ---
 
@@ -72,6 +86,8 @@ Repositories focused on CSS frameworks and design systems.
 
 - [bootstrap/bootstrap](https://github.com/twbs/bootstrap) – Popular CSS and JS framework toolkit.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) – Utility-first CSS framework.
+- [airbnb/css](https://github.com/airbnb/css)
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle)
 
 ---
 
@@ -132,17 +148,19 @@ Structured guides and learning paths for dev roles and technologies.
 
 Curated lists of tools, APIs, services, and free resources.
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [mahseema/awesome-saas-directories](https://github.com/mahseema/awesome-saas-directories)
 - [marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 ---
 
 ## 🧰 Other Useful Tools
 
-Miscellaneous tools, apps, utilities, and experimental repos.
+Miscellaneous tools, apps, utilities, and experimental repositories.
 
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
 - [appget/appget](https://github.com/appget/appget)
