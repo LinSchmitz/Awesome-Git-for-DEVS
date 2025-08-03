@@ -46,112 +46,6 @@ If it's a tool, CLI helper, plugin, or Git-enhancing project—it's welcome here
 
 ---
 
-## 📌 Contribution Guide
-
-Want to add a cool Git-related repo?
-
-1. It must be an **open-source Git-related tool/repo** (not just tutorial).
-2. Add the link in the appropriate section with a **short description**.
-3. Submit a PR 🙌
-
----
-
-## 📝 License
-
-MIT © [your-username](https://github.com/your-username)
-
----
-
-> Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome)  
-> Maintained with ❤️ by [@your-username](https://github.com/your-username)
-
----
-
-## ✨ Why This Exists
-
-Most devs learn Git just enough to get by—but Git is a powerhouse once you unlock its real potential.  
-This list gathers the _coolest tricks_, _cleanest workflows_, and _lesser-known commands_ for serious devs and open-source lovers.
-
----
-
-## 📚 Table of Contents
-
-- [⚡ CLI Tips & Tricks](#-cli-tips--tricks)
-- [🧠 Must-Know Concepts](#-must-know-concepts)
-- [🔁 Workflow Strategies](#-workflow-strategies)
-- [🔥 Real-Life Git Fixes](#-real-life-git-fixes)
-- [🧪 Internals & Low-Level Hacks](#-internals--low-level-hacks)
-- [🧰 Tools, GUIs & Helpers](#-tools-guis--helpers)
-- [🎥 Videos & Talks](#-videos--talks)
-- [📘 Books & Guides](#-books--guides)
-- [💎 Awesome Related Repos](#-awesome-related-repos)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
-
----
-
-## ⚡ CLI Tips & Tricks
-
-- Visualize commit history beautifully:
-  ```bash
-  git log --oneline --graph --decorate --all
-  ```
-
-````
-
-- Use `git stash -p` to interactively stash specific lines.
-- Track down where a bug was introduced:
-
-  ```bash
-  git bisect start
-  ```
-
-- Make a temporary branch:
-
-  ```bash
-  git checkout -b temp && ... && git switch -
-  ```
-
----
-
-## 🧠 Must-Know Concepts
-
-- Understanding the **three Git trees**: Working Directory, Index, and HEAD
-- [What is a detached HEAD state?](https://git-scm.com/docs/git-checkout#_detached_head)
-- How `rebase` rewrites history (and when it’s OK to use it)
-
----
-
-## 🔁 Workflow Strategies
-
-- GitHub Flow vs GitLab Flow vs GitFlow
-- `Trunk-Based Development` explained
-- Protecting `main` branch with PR rules
-- [Semantic Commits](https://www.conventionalcommits.org/)
-
----
-
-## 🔥 Real-Life Git Fixes
-
-- Recover from a `git push --force` mistake
-- Revert a merge commit:
-
-  ```bash
-  git revert -m 1 <commit>
-  ```
-
-- Undo that `git reset --hard` using `git reflog`
-
----
-
-## 🧪 Internals & Low-Level Hacks
-
-- Exploring `.git/objects` and `.git/index`
-- Create a blob manually with `git hash-object`
-- [Write Your Own Git in Python](https://wyag.thb.lt/)
-
----
-
 ## 🧰 Tools, GUIs & Helpers
 
 - [LazyGit](https://github.com/jesseduffield/lazygit) – terminal UI for Git
@@ -202,29 +96,12 @@ Read the [CONTRIBUTING.md](CONTRIBUTING.md) for style and format guidelines.
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+MIT © [LinSchmitz](https://github.com/LinSchmitz)
 
 ---
 
-> Created and maintained by [@your-username](https://github.com/your-username)
-> If you found this useful, star the repo and share it! ⭐
+> Maintained with ❤️ by [@LinSchmitz](https://github.com/LinSchmitz)
 
 ```
 
----
-
-### ✅ What to do next:
-1. Replace `your-username` with your GitHub handle.
-2. Add actual resources for each section (let me know, I’ll help!).
-3. Create these files:
-   - `LICENSE` → [MIT template](https://choosealicense.com/licenses/mit/)
-   - `CONTRIBUTING.md` → Want me to write a good one?
-4. Push your repo and **promote it**:
-   - Post on X/Twitter, Reddit (like r/git), HackerNews, dev.to
-   - Tag it with #git, #opensource, #devtools
-
----
-
-
 ```
-````
