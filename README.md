@@ -8,38 +8,129 @@
 
 ---
 
-## 🔧 Git Tools, GUIs & Utilities
+## 📚 Categorized Repositories
 
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – Terminal UI for Git commands.
-- [dandavison/delta](https://github.com/dandavison/delta) – Syntax-highlighting pager for Git.
-- [GitLens](https://gitlens.amod.io/) – Git superpowers in VSCode.
-- [tig](https://github.com/jonas/tig) – Text-mode interface for Git.
-- [Sourcetree](https://www.sourcetreeapp.com/) – GUI for Git beginners.
-- [git-standup](https://github.com/kamranahmedse/git-standup) – Recall what you worked on yesterday.
-- [tj/git-extras](https://github.com/tj/git-extras) – Git utilities like `git-squash`, `git-changelog`.
+### 🤖 AI & Machine Learning
 
-## 🧠 Git Internals & Learning Projects
+Tools, libraries, and awesome lists related to AI, ML, GPTs, and automation.
 
-- [git/git](https://github.com/git/git) – Official Git source code.
-- [pluralsight/git-internals-pdf](https://github.com/pluralsight/git-internals-pdf) – Git internals PDF by Scott Chacon.
-- [wyag](https://github.com/micropython-utilities/wyag) – "Write Yourself a Git" in Python.
+- [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
+- [Arindam200/logo-ai](https://github.com/Arindam200/logo-ai)
+- [abi/awesome-ai-devtools](https://github.com/abi/awesome-ai-devtools)
+- [danielgatis/rembg](https://github.com/danielgatis/rembg)
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
+- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools)
 
-## 🛠 Plugins & Extensions
+---
 
-- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) – Git plugin for Vim.
-- [junegunn/gv.vim](https://github.com/junegunn/gv.vim) – Git commit browser in Vim.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – Terminal plugins with Git integration.
+### ⚛️ JavaScript & Frontend
 
-## 🎯 Workflow Helpers
+Useful JavaScript projects, React tools, components, and frontend libraries.
 
-- [github/gitignore](https://github.com/github/gitignore) – `.gitignore` templates.
-- [github/hub](https://github.com/github/hub) – GitHub CLI wrapper for Git.
-- [git-town/git-town](https://github.com/git-town/git-town) – Git workflow automation.
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
+- [Mariotek/better-understanding-of-javascript](https://github.com/Mariotek/better-understanding-of-javascript)
+- [Mariotek/reactjs-persian-interview-questions](https://github.com/Mariotek/reactjs-persian-interview-questions)
+- [deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT](https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT)
+- [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour)
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+- [pmndrs/zustand](https://github.com/pmndrs/zustand)
+- [soumyajit4419/vercel-clone](https://github.com/soumyajit4419/vercel-clone)
+- [steven-tey/cal.com](https://github.com/steven-tey/cal.com)
+- [codex-team/editor.js](https://github.com/codex-team/editor.js)
+- [SarahAmiraslani/styleguide](https://github.com/SarahAmiraslani/styleguide)
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+- [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
-## 💎 Awesome Repos
+---
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) – The OG Awesome list.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – Shell with Git enhancements.
+### 📑 Cheatsheets & Guides
+
+Handy reference sheets, guides, and visual summaries for quick lookup.
+
+- [SarahAmiraslani/cheatsheets](https://github.com/SarahAmiraslani/cheatsheets)
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+
+---
+
+### 🎨 CSS & Design
+
+Creative design tools and CSS frameworks or experiments.
+
+- [airbnb/css](https://github.com/airbnb/css)
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle)
+
+---
+
+### 🎓 Interview & Learning
+
+Resources for studying algorithms, preparing for interviews, and self-education.
+
+- [Mariotek/javascript-persian-interview-questions](https://github.com/Mariotek/javascript-persian-interview-questions)
+- [egonschiele/grokking_algorithms](https://github.com/egonschiele/grokking_algorithms)
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+- [phillipai/100-days-of-code-python](https://github.com/phillipai/100-days-of-code-python)
+- [ashutoshkrris/100-Days-of-Python](https://github.com/ashutoshkrris/100-Days-of-Python)
+- [b-tomi/100DaysOfCode](https://github.com/b-tomi/100DaysOfCode)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [colinlienard/githundred](https://github.com/colinlienard/githundred)
+
+---
+
+### 🕹 Games & Fun Projects
+
+Mini-games, experiments, and creative open-source showcases.
+
+- [keyurparalkar/snake-game](https://github.com/keyurparalkar/snake-game)
+- [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks)
+- [taqui-786/spotify-next](https://github.com/taqui-786/spotify-next)
+
+---
+
+### ⏱ Productivity & Automation
+
+Tools and directories that help automate workflows and boost productivity.
+
+- [dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation)
+- [ProductivityDirectory/awesome-productivity-tools](https://github.com/ProductivityDirectory/awesome-productivity-tools)
+- [sahandghavidel/sleep-tracker-next](https://github.com/sahandghavidel/sleep-tracker-next)
+- [GeeDook/mirava](https://github.com/GeeDook/mirava)
+
+---
+
+### 🗺 Developer Roadmaps
+
+Structured guides and learning paths for dev roles and technologies.
+
+- [devopshobbies/devops-roadmap](https://github.com/devopshobbies/devops-roadmap)
+- [taqui-786/Devzone](https://github.com/taqui-786/Devzone)
+
+---
+
+### 🌍 Awesome Lists & Public Resources
+
+Curated lists of tools, APIs, services, and free resources.
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [mahseema/awesome-saas-directories](https://github.com/mahseema/awesome-saas-directories)
+- [marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing)
+- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
+
+---
+
+### 🧰 Other Useful Tools
+
+Miscellaneous tools, apps, utilities, and experimental repos.
+
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
+- [appget/appget](https://github.com/appget/appget)
+- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+- [taqui-786/itZmyLink](https://github.com/taqui-786/itZmyLink)
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive)
 
 ---
 
